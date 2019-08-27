@@ -1,5 +1,10 @@
 # Ejercicios usando c++
 
+Nota:
+--
+201910304/                      12                      1                        12/13            18.46
+
+
 Nombre:
 --
 
